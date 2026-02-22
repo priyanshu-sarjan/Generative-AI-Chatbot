@@ -2,7 +2,7 @@
 # Study Bot - AI Study Assistant
 
 ## Project Overview
-[cite_start]Study Bot is an AI-powered chatbot designed to help users ask questions related to academic and study topics[cite: 178, 196]. [cite_start]Built using a FastAPI backend, this project leverages LangChain and the Groq LLM API to provide intelligent, context-aware responses[cite: 181, 185]. [cite_start]The bot is designed to act strictly as a study assistant, utilizing a custom system prompt to guide its behavior and gently redirect off-topic questions[cite: 195].
+Study Bot is an AI-powered chatbot designed to help users ask questions related to academic and study topics[cite: 178, 196]. [cite_start]Built using a FastAPI backend, this project leverages LangChain and the Groq LLM API to provide intelligent, context-aware responses[cite: 181, 185]. [cite_start]The bot is designed to act strictly as a study assistant, utilizing a custom system prompt to guide its behavior and gently redirect off-topic questions[cite: 195].
 
 ## Hosted API Link
 [cite_start]**Live API URL:** `[Paste your Render .onrender.com link here]` [cite: 203]
